@@ -1,0 +1,268 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="FERROCOMUNICA.com" resolutions="1x" timestamp="1542599857205">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3766457457" ref="fallece-la-docente-gladys:deportivos:sampedrito:gastronomia-colobiana:sociales:reconocimiento-a-armando-losada:hermanos-capuchino:ventana-misteriosa:index:reconocimiento-al-rector:contáctenos:dia-del-idioma:reconocimiento-a-dr-eugenio-ferro-falla:nosotros:apoyando-a-nuestra-selecion-colombia:aprendizaje:las-vacaciones-de-juan:eventos:feliz-dia-del-maestro:fallece-la-docente-gloria:noti-slid-d:culturales:di-no-al-consumo"/>
+    <file name="fallece-la-docente-gladys.css" crc="348052164" ref="fallece-la-docente-gladys"/>
+    <file name="deportivos.css" crc="3813165223" ref="deportivos"/>
+    <file name="sampedrito.css" crc="91541844" ref="sampedrito"/>
+    <file name="gastronomia-colobiana.css" crc="468534841" ref="gastronomia-colobiana"/>
+    <file name="sociales.css" crc="3854817561" ref="sociales"/>
+    <file name="reconocimiento-a-armando-losada.css" crc="3764917377" ref="reconocimiento-a-armando-losada"/>
+    <file name="hermanos-capuchino.css" crc="473703889" ref="hermanos-capuchino"/>
+    <file name="ventana-misteriosa.css" crc="3871519813" ref="ventana-misteriosa"/>
+    <file name="index.css" crc="3877307815" ref="index"/>
+    <file name="reconocimiento-al-rector.css" crc="115656677" ref="reconocimiento-al-rector"/>
+    <file name="cont_ctenos.css" crc="4137498448" ref="contáctenos"/>
+    <file name="dia-del-idioma.css" crc="520694034" ref="dia-del-idioma"/>
+    <file name="reconocimiento-a-dr-eugenio-ferro-falla.css" crc="49458021" ref="reconocimiento-a-dr-eugenio-ferro-falla"/>
+    <file name="nosotros.css" crc="283890728" ref="nosotros"/>
+    <file name="apoyando-a-nuestra-selecion-colombia.css" crc="488594906" ref="apoyando-a-nuestra-selecion-colombia"/>
+    <file name="aprendizaje.css" crc="505005749" ref="aprendizaje"/>
+    <file name="las-vacaciones-de-juan.css" crc="410627792" ref="las-vacaciones-de-juan"/>
+    <file name="eventos.css" crc="4019421619" ref="eventos"/>
+    <file name="feliz-dia-del-maestro.css" crc="366658154" ref="feliz-dia-del-maestro"/>
+    <file name="fallece-la-docente-gloria.css" crc="3852007584" ref="fallece-la-docente-gloria"/>
+    <file name="noti-slid-d.css" crc="4208608062" ref="noti-slid-d"/>
+    <file name="culturales.css" crc="425350976" ref="culturales"/>
+    <file name="di-no-al-consumo.css" crc="4224742321" ref="di-no-al-consumo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="museutils.js" crc="340535759" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="whatinput.js" crc="86476730" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:aprendizaje:deportivos:culturales:sociales:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="webpro.js" crc="4059564322" ref="index:deportivos:culturales:sociales:contáctenos"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:deportivos:culturales:sociales"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:deportivos:culturales:sociales"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:deportivos:culturales:sociales"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="require.js" crc="7928878" ref="index:aprendizaje:deportivos:culturales:sociales:nosotros:contáctenos:eventos:sampedrito:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:dia-del-idioma:feliz-dia-del-maestro:gastronomia-colobiana:fallece-la-docente-gladys:ventana-misteriosa:las-vacaciones-de-juan:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="form_check.php" crc="4020933626" ref="contáctenos"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contáctenos"/>
+    <file name="form_process.php" crc="37464564" ref="contáctenos"/>
+    <file name="form-u1439.php" crc="495441909" ref="contáctenos"/>
+  </folder>
+  <folder name="images">
+    <file name="logo1.png" crc="442117617" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profesores.jpg" crc="295008955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:deportivos:culturales:sociales"/>
+    <file name="dscn3404.jpg" crc="536742043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1642.jpg" crc="4244138256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:deportivos:culturales:sociales"/>
+    <file name="principal-u1114-fr.jpg" crc="3930714267" ref="index"/>
+    <file name="hermanos c.jpg" crc="210884478" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="misa.jpg" crc="4084538826" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="deportes.png" crc="4126221900" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social.png" crc="271903433" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cultura.png" crc="91502110" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="academico.png" crc="84447396" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_logo_(square).png" crc="462051808" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="600px-instagram_logo_2016svg.png" crc="486456472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-logo.png" crc="4262501953" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-logo.png" crc="381354241" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="600px-whatsapp_logo-color-verticalsvg.png" crc="486779157" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="3788253663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="4020616971" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="3885015609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="3975448743" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="3765335025" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa.png" crc="3865173213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ventana.jpg" crc="4251279177" ref="aprendizaje:ventana-misteriosa">
+      <caption webpage="aprendizaje" alt=""/>
+      <caption webpage="aprendizaje" alt=""/>
+    </file>
+    <file name="las-vacaciones-de-juan-1-u5004-fr.jpg" crc="4182169246" ref="aprendizaje"/>
+    <file name="principal-crop-u2862.jpg" crc="4283234164" seo="true" ref="deportivos">
+      <caption webpage="deportivos" alt=""/>
+    </file>
+    <file name="principal-crop-u5973.jpg" crc="3848785275" seo="true" ref="deportivos">
+      <caption webpage="deportivos" alt=""/>
+    </file>
+    <file name="principal-u2876-fr.jpg" crc="192742699" ref="deportivos"/>
+    <file name="principal-u2881-fr.jpg" crc="256351161" ref="deportivos"/>
+    <file name="candidatas.jpg" crc="35765879" ref="culturales">
+      <caption webpage="culturales" alt=""/>
+    </file>
+    <file name="candidatas-crop-u2424.jpg" crc="281562154" seo="true" ref="culturales">
+      <caption webpage="culturales" alt=""/>
+    </file>
+    <file name="principal-crop-u5759.jpg" crc="4069676654" seo="true" ref="culturales">
+      <caption webpage="culturales" alt=""/>
+    </file>
+    <file name="principal-crop-u5912.jpg" crc="3995227904" seo="true" ref="culturales">
+      <caption webpage="culturales" alt=""/>
+    </file>
+    <file name="candidatas-u2579-fr.jpg" crc="3769865837" ref="culturales"/>
+    <file name="principal-u2616-fr.jpg" crc="3826273919" ref="culturales"/>
+    <file name="principal-u2651-fr.jpg" crc="229312074" ref="culturales"/>
+    <file name="foto principal-crop-u3586.jpg" crc="4003441731" seo="true" ref="sociales">
+      <caption webpage="sociales" alt=""/>
+    </file>
+    <file name="drogas.jpg" crc="107646855" seo="true" ref="sociales">
+      <caption webpage="sociales" alt=""/>
+    </file>
+    <file name="capuchinos.jpg" crc="112355423" seo="true" ref="sociales">
+      <caption webpage="sociales" alt=""/>
+    </file>
+    <file name="foto principal-u3600-fr.jpg" crc="496003446" ref="sociales"/>
+    <file name="38888164_1793108104100269_7675042885061836800_n.jpg" crc="4079055679" ref="sociales:di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:fallece-la-docente-gladys:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada">
+      <caption webpage="sociales" alt=""/>
+    </file>
+    <file name="40530778_294009514718928_1858304122730577920_n.jpg" crc="4128882472" ref="sociales:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:fallece-la-docente-gladys:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada">
+      <caption webpage="sociales" alt=""/>
+    </file>
+    <file name="candidatas2.jpg" crc="430363657" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35148763_1703586973052383_2728190624015581184_n.jpg" crc="451856859" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35189806_1703587086385705_5318970469544624128_n.jpg" crc="185454254" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35191366_1703587423052338_8469440783454306304_n.jpg" crc="420542149" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35158883_1703587243052356_3892845438109220864_n.jpg" crc="3833837046" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35244482_1703587316385682_4776414644342358016_n.jpg" crc="4204633966" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="35298515_1703587389719008_7574432399979708416_n.jpg" crc="3980966533" ref="sampedrito">
+      <caption webpage="sampedrito" alt=""/>
+    </file>
+    <file name="drogas2.jpg" crc="4292300449" ref="di-no-al-consumo">
+      <caption webpage="di-no-al-consumo" alt=""/>
+    </file>
+    <file name="drogas-u4051-fr.jpg" crc="18807221" ref="di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:fallece-la-docente-gladys:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada"/>
+    <file name="31252942_1654051058005975_5400499544507023360_n.jpg" crc="4175171416" ref="di-no-al-consumo:hermanos-capuchino:apoyando-a-nuestra-selecion-colombia:fallece-la-docente-gladys:reconocimiento-a-dr-eugenio-ferro-falla:noti-slid-d:reconocimiento-al-rector:fallece-la-docente-gloria:reconocimiento-a-armando-losada">
+      <caption webpage="di-no-al-consumo" alt=""/>
+    </file>
+    <file name="principal-u4604-fr.jpg" crc="105481702" ref="dia-del-idioma"/>
+    <file name="31369221_1655666101177804_5465673929467101184_n.jpg" crc="3949157865" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31413611_1655665821177832_8503937058832646144_n.jpg" crc="3796344422" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31437257_1655666147844466_7058129119992610816_n.jpg" crc="4127278967" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31416876_1655665731177841_7277274307238035456_n.jpg" crc="256708420" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31422827_1655666041177810_2636855494471319552_n.jpg" crc="103351198" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31384203_1655665791177835_4845754773917401088_n-.jpg" crc="3864413469" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31337864_1655665914511156_1678008520995241984_n.jpg" crc="266640764" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="31395672_1655665954511152_3272270127520808960_n.jpg" crc="288641710" ref="dia-del-idioma">
+      <caption webpage="dia-del-idioma" alt=""/>
+    </file>
+    <file name="principal-u4614-fr.jpg" crc="4118874447" ref="dia-del-idioma"/>
+    <file name="foto principal-u4655-fr.jpg" crc="424624565" ref="feliz-dia-del-maestro"/>
+    <file name="principal-u4706-fr.jpg" crc="3910093062" ref="gastronomia-colobiana"/>
+    <file name="1.jpg" crc="4155535920" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="2.jpg" crc="19596044" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4116131064" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="4.jpg" crc="46152062" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3835388481" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4141489955" ref="gastronomia-colobiana">
+      <caption webpage="gastronomia-colobiana" alt=""/>
+    </file>
+    <file name="las-vacaciones-de-juan-1.jpg" crc="364407363" ref="las-vacaciones-de-juan">
+      <caption webpage="las-vacaciones-de-juan" alt=""/>
+    </file>
+    <file name="31252942_1654051058005975_5400499544507023360_n2.jpg" crc="490321063" ref="reconocimiento-al-rector:reconocimiento-a-armando-losada">
+      <caption webpage="reconocimiento-al-rector" alt=""/>
+      <caption webpage="reconocimiento-a-armando-losada" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="389323876" seo="true" mt="1542599699238" redirect="true"/>
+  <file name="aprendizaje.html" crc="265761894" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="deportivos.html" crc="263348055" seo="true" mt="1542599425119" redirect="true"/>
+  <file name="culturales.html" crc="238584424" seo="true" mt="1542597467995" redirect="true"/>
+  <file name="sociales.html" crc="4065143456" seo="true" mt="1542599495497" redirect="true"/>
+  <file name="nosotros.html" crc="195398943" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="contáctenos.html" crc="411198917" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="eventos.html" crc="323387806" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="sampedrito.html" crc="357168230" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="di-no-al-consumo.html" crc="98372715" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="hermanos-capuchino.html" crc="4170178799" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="apoyando-a-nuestra-selecion-colombia.html" crc="514447457" seo="true" mt="1542560268943" redirect="true"/>
+  <file name="dia-del-idioma.html" crc="34148829" seo="true" mt="1542595294643" redirect="true"/>
+  <file name="feliz-dia-del-maestro.html" crc="4195841119" seo="true" mt="1542588463251" redirect="true"/>
+  <file name="gastronomia-colobiana.html" crc="439726978" seo="true" mt="1542595981542" redirect="true"/>
+  <file name="fallece-la-docente-gladys.html" crc="2542221" seo="true" mt="1542560425042" redirect="true"/>
+  <file name="ventana-misteriosa.html" crc="354883530" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="las-vacaciones-de-juan.html" crc="349791142" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="reconocimiento-a-dr-eugenio-ferro-falla.html" crc="373122259" seo="true" mt="1542560651799" redirect="true"/>
+  <file name="noti-slid-d.html" crc="490738403" seo="true" mt="1539891596799" redirect="true"/>
+  <file name="reconocimiento-al-rector.html" crc="3949185591" seo="true" mt="1542559992175" redirect="true"/>
+  <file name="fallece-la-docente-gloria.html" crc="3885105314" seo="true" mt="1542560526058" redirect="true"/>
+  <file name="reconocimiento-a-armando-losada.html" crc="4059537489" seo="true" mt="1542560758127" redirect="true"/>
+</manifest>
